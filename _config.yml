@@ -1,6 +1,19 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Amit Kumar </p>
+logo: https://media-exp1.licdn.com/dms/image/C4D03AQGYeHij6UGS8w/profile-displayphoto-shrink_400_400/0/1516863206268?e=1664409600&v=beta&t=sfunQzpyotYuRyf8jb6PdNaENsCQTJvUQ8wW3YLBiPk
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/4amitnarayan/">LinkedIn</a> |
+  <a href="https://github.com/4amitnarayan">GitHub</a>
+  
+  <br>   
+  I'm working on Web Development, ES6, React JS, Redux & Angular JS.
+  Also Learning AI & ML from IIIT Bangalore.
+  Worked with CITI Bank Singapore, Emirtates Airlines UAE, Prudential Assurance Singapore.
+  Working in DKSH Holdings.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
